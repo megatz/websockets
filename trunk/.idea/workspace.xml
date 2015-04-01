@@ -1,12 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83f27f68-431b-4366-986e-45174f857343" name="Default" comment="" />
+    <list default="true" id="83f27f68-431b-4366-986e-45174f857343" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___demo___demo_0_0_1_SNAPSHOT_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___demo___demo_0_0_1_SNAPSHOT_war__exploded_.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/demo/DemoApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/demo/Greeting.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/demo/GreetingController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/demo/HelloMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/demo/Service.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/demo/ServletInitializer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/demo/WebSocketConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/test/demo/DemoApplicationTests.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/demo-0.0.1-SNAPSHOT.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/demo-0.0.1-SNAPSHOT.war.original" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/classes/css/base-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/classes/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/classes/demo.DemoApplicationTests.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/classes/htc/css3-pie-1.0beta3.htc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/classes/js/report.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/css/base-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/htc/css3-pie-1.0beta3.htc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/js/report.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/packages/css/base-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/packages/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/packages/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/packages/htc/css3-pie-1.0beta3.htc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/packages/js/report.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/application.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/TEST-demo.DemoApplicationTests.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/binary/test/output.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/binary/test/output.bin.idx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/binary/test/results.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/demo/exploded/demo-0.0.1-SNAPSHOT.war/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/demo/Service.java" afterPath="$PROJECT_DIR$/src/main/java/demo/Service.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="demo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path=".idea/dataSources.local.xml" />
+    <ignored mask="*.bin" />
+    <ignored path="build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +79,7 @@
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
               </PATH_ELEMENT>
               <PATH_ELEMENT>
-                <option name="myItemId" value="demo" />
+                <option name="myItemId" value="trunk" />
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
               </PATH_ELEMENT>
             </PATH>
@@ -43,7 +89,7 @@
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
               </PATH_ELEMENT>
               <PATH_ELEMENT>
-                <option name="myItemId" value="demo" />
+                <option name="myItemId" value="trunk" />
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
               </PATH_ELEMENT>
               <PATH_ELEMENT>
@@ -57,7 +103,7 @@
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
               </PATH_ELEMENT>
               <PATH_ELEMENT>
-                <option name="myItemId" value="demo" />
+                <option name="myItemId" value="trunk" />
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
               </PATH_ELEMENT>
               <PATH_ELEMENT>
@@ -75,7 +121,7 @@
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
               </PATH_ELEMENT>
               <PATH_ELEMENT>
-                <option name="myItemId" value="demo" />
+                <option name="myItemId" value="trunk" />
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
               </PATH_ELEMENT>
               <PATH_ELEMENT>
@@ -93,7 +139,7 @@
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
               </PATH_ELEMENT>
               <PATH_ELEMENT>
-                <option name="myItemId" value="demo" />
+                <option name="myItemId" value="trunk" />
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
               </PATH_ELEMENT>
               <PATH_ELEMENT>
@@ -144,7 +190,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.33333334">
+            <state vertical-scroll-proportion="0.0">
               <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
               <folding>
                 <element signature="n#style#0;n#h2#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -153,11 +199,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Service.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Service.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/demo/Service.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state vertical-scroll-proportion="1.0110865">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -165,11 +211,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebSocketConfig.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WebSocketConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/demo/WebSocketConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6289517">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -188,7 +234,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -196,14 +242,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="demo" />
+              <option name="name" value="trunk" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="demo" />
+                <option name="name" value="trunk" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -411,13 +457,12 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="1427911943517" />
         <entry key="$USER_HOME$/git/prepack-service" value="5697887361540" />
         <entry key="$USER_HOME$/svn/inventoryServices/trunk" value="18529048981442" />
         <entry key="$USER_HOME$/svn/rms/trunk" value="8552603886825" />
-        <entry key="/opt/nisum/workspaces/git/prepack-service" value="5709279078100" />
-        <entry key="/opt/nisum/workspaces/svn/inventoryServices/trunk" value="18481015947566" />
-        <entry key="/opt/nisum/workspaces/svn/rms/trunk" value="8564804604898" />
+        <entry key="$PROJECT_DIR$/../../../prepack-service" value="5709279078100" />
+        <entry key="$PROJECT_DIR$/../../../../svn/inventoryServices/trunk" value="18481015947566" />
+        <entry key="$PROJECT_DIR$/../../../../svn/rms/trunk" value="8564804604898" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -442,6 +487,8 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-ws/1.2.2.RELEASE/35ded540e39332ecfb144fbefabc604d6564a834/spring-boot-starter-ws-1.2.2.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a6dc5db8a12928e583bd3f23e72d3ab611ecd58f/gson-2.2.4-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.2.2.RELEASE/fc648e26a3bb8449e703705e7f9ed9e113ccc71f/spring-boot-starter-tomcat-1.2.2.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.2.2.RELEASE/1ab9d88deea40fb722e63341da7e0c304790e249/spring-boot-starter-tomcat-1.2.2.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.2.2.RELEASE/3d41ee34225cadc3f580b36ed58e0fbaf0f92252/spring-boot-starter-1.2.2.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.2.2.RELEASE/429a2235590cb4192a3290fee8eaa6fb67a2a2f2/spring-boot-starter-1.2.2.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mongodb/mongo-java-driver/2.12.5/17fc05a3487ca3e4ce05531bf52a7146723e1e40/mongo-java-driver-2.12.5-sources.jar" />
@@ -452,8 +499,6 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.1.5.RELEASE/258d04c25cdae15dce060e93bb9646f3a153475d/spring-tx-4.1.5.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/1.6.2.RELEASE/16c33c4bca1a0e3eb8499b0599f4a86c5371b71b/spring-data-mongodb-1.6.2.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/1.6.2.RELEASE/a0292bffe73a65b73fde8420dffcef16c83a7c5e/spring-data-mongodb-1.6.2.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.2.2.RELEASE/fc648e26a3bb8449e703705e7f9ed9e113ccc71f/spring-boot-starter-tomcat-1.2.2.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.2.2.RELEASE/1ab9d88deea40fb722e63341da7e0c304790e249/spring-boot-starter-tomcat-1.2.2.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.5/de094907ce9aab8509792f5587c5c890ea2384d6/jackson-databind-2.4.5-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.5/c69c0cb613128c69d84a6a0304ddb9fce82e8242/jackson-databind-2.4.5.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-validator/5.1.3.Final/2bb7969a7c05ddd8474873981321cce43c688eb9/hibernate-validator-5.1.3.Final-sources.jar" />
@@ -474,6 +519,14 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.ws/spring-ws-core/2.2.0.RELEASE/f5de942e30c3c047a273b5bb42cc5c71d3303fcb/spring-ws-core-2.2.0.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.ws/spring-ws-support/2.2.0.RELEASE/2b7dfa5367009585a417bd2b839ac0d7b7166946/spring-ws-support-2.2.0.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.ws/spring-ws-support/2.2.0.RELEASE/e0909c1552b71d92ef54b027889b0640856a98b0/spring-ws-support-2.2.0.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.20/c353a390a62f801ce0d031cefdcf513634940087/tomcat-embed-core-8.0.20-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.20/5810725255089f4d0b7ab19ac70b8c4a9cd8d4a3/tomcat-embed-core-8.0.20.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/8.0.20/6f5945c68a72ca85f513b12f17d86601f1da6ae9/tomcat-embed-el-8.0.20-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/8.0.20/8050b326d0ee31ba91b06e420b57efe77a6f0516/tomcat-embed-el-8.0.20.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/8.0.20/898c70a96db07261f7f3c3003264c900d8f080d5/tomcat-embed-logging-juli-8.0.20-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/8.0.20/234ee053b3dbd4bca2fc221a99d4f7d292d33e0b/tomcat-embed-logging-juli-8.0.20.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/8.0.20/fa795768128e0fb4b978bcce065d85b263e199e9/tomcat-embed-websocket-8.0.20-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/8.0.20/b4914491d1baa90958e5c951bec7140e65874f3/tomcat-embed-websocket-8.0.20.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.2.RELEASE/191eecea5109388227dbf1c1532ec02bb5e54ba3/spring-boot-1.2.2.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.2.RELEASE/c2495d6c08c742743366f50e25ad76f5dfcd9f75/spring-boot-1.2.2.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.2.2.RELEASE/f768b70a2415f506f502c23fad8600aea167ba14/spring-boot-autoconfigure-1.2.2.RELEASE-sources.jar" />
@@ -490,14 +543,6 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.10/5b338f206827d88acd890739f400a9b7664e5984/slf4j-api-1.7.10.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.10/6e04c28745fd98501a958d4e6daa40214f63b69f/jcl-over-slf4j-1.7.10-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.10/ce49a188721bc39cb9710b346ae9b7ec27b0f36b/jcl-over-slf4j-1.7.10.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.20/c353a390a62f801ce0d031cefdcf513634940087/tomcat-embed-core-8.0.20-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.20/5810725255089f4d0b7ab19ac70b8c4a9cd8d4a3/tomcat-embed-core-8.0.20.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/8.0.20/6f5945c68a72ca85f513b12f17d86601f1da6ae9/tomcat-embed-el-8.0.20-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/8.0.20/8050b326d0ee31ba91b06e420b57efe77a6f0516/tomcat-embed-el-8.0.20.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/8.0.20/898c70a96db07261f7f3c3003264c900d8f080d5/tomcat-embed-logging-juli-8.0.20-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/8.0.20/234ee053b3dbd4bca2fc221a99d4f7d292d33e0b/tomcat-embed-logging-juli-8.0.20.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/8.0.20/fa795768128e0fb4b978bcce065d85b263e199e9/tomcat-embed-websocket-8.0.20-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/8.0.20/b4914491d1baa90958e5c951bec7140e65874f3/tomcat-embed-websocket-8.0.20.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.0/7fcf3182660e0be49c7448e13f91e655b2cba9bf/jackson-annotations-2.4.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.0/d6a66c7a5f01cf500377bd669507a08cfeba882a/jackson-annotations-2.4.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.4.5/78aa0daeea0c06989df5ba57925b84e9daa03aa0/jackson-core-2.4.5-sources.jar" />
@@ -544,93 +589,93 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="demo" />
+              <option name="name" value="trunk" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="/opt/nisum/gradle-2.0/src/diagnostics" />
-                  <option value="/opt/nisum/gradle-2.0/src/osgi" />
-                  <option value="/opt/nisum/gradle-2.0/src/jacoco" />
-                  <option value="/opt/nisum/gradle-2.0/src/antlr" />
-                  <option value="/opt/nisum/gradle-2.0/src/cpp" />
-                  <option value="/opt/nisum/gradle-2.0/src/plugin-use" />
-                  <option value="/opt/nisum/gradle-2.0/src/ui" />
-                  <option value="/opt/nisum/gradle-2.0/src/core-impl" />
-                  <option value="/opt/nisum/gradle-2.0/src/signing" />
-                  <option value="/opt/nisum/gradle-2.0/src/resources" />
-                  <option value="/opt/nisum/gradle-2.0/src/base-services" />
-                  <option value="/opt/nisum/gradle-2.0/src/launcher" />
-                  <option value="/opt/nisum/gradle-2.0/src/build-init" />
-                  <option value="/opt/nisum/gradle-2.0/src/native" />
-                  <option value="/opt/nisum/gradle-2.0/src/code-quality" />
-                  <option value="/opt/nisum/gradle-2.0/src/messaging" />
-                  <option value="/opt/nisum/gradle-2.0/src/build-comparison" />
-                  <option value="/opt/nisum/gradle-2.0/src/base-services-groovy" />
-                  <option value="/opt/nisum/gradle-2.0/src/open-api" />
-                  <option value="/opt/nisum/gradle-2.0/src/ivy" />
-                  <option value="/opt/nisum/gradle-2.0/src/tooling-api" />
-                  <option value="/opt/nisum/gradle-2.0/src/sonar" />
-                  <option value="/opt/nisum/gradle-2.0/src/announce" />
-                  <option value="/opt/nisum/gradle-2.0/src/wrapper" />
-                  <option value="/opt/nisum/gradle-2.0/src/jetty" />
-                  <option value="/opt/nisum/gradle-2.0/src/language-jvm" />
-                  <option value="/opt/nisum/gradle-2.0/src/internal-integ-testing" />
-                  <option value="/opt/nisum/gradle-2.0/src/resources-http" />
-                  <option value="/opt/nisum/gradle-2.0/src/plugins" />
-                  <option value="/opt/nisum/gradle-2.0/src/ide" />
-                  <option value="/opt/nisum/gradle-2.0/src/maven" />
-                  <option value="/opt/nisum/gradle-2.0/src/ear" />
-                  <option value="/opt/nisum/gradle-2.0/src/language-base" />
-                  <option value="/opt/nisum/gradle-2.0/src/javascript" />
-                  <option value="/opt/nisum/gradle-2.0/src/core" />
-                  <option value="/opt/nisum/gradle-2.0/src/publish" />
-                  <option value="/opt/nisum/gradle-2.0/src/reporting" />
-                  <option value="/opt/nisum/gradle-2.0/src/internal-testing" />
-                  <option value="/opt/nisum/gradle-2.0/src/cli" />
-                  <option value="/opt/nisum/gradle-2.0/src/scala" />
-                  <option value="/opt/nisum/gradle-2.0/lib/gradle-native-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/ant-1.9.3.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/gradle-open-api-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/gradle-core-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/groovy-all-2.3.3.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/gradle-tooling-api-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/gradle-cli-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/gradle-resources-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/gradle-launcher-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/gradle-ui-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/gradle-base-services-groovy-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/ant-launcher-1.9.3.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/gradle-docs-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/gradle-wrapper-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/gradle-messaging-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/gradle-base-services-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/ant-antlr-1.9.3.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-publish-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-plugin-use-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-maven-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/ivy-2.2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-jetty-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-resources-http-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-build-comparison-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-signing-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-javascript-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-reporting-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-ear-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-language-jvm-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-sonar-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-build-init-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-core-impl-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-announce-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-jacoco-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-osgi-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-scala-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-cpp-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-plugins-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-language-base-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-antlr-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-ide-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-ivy-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-diagnostics-2.0.jar" />
-                  <option value="/opt/nisum/gradle-2.0/lib/plugins/gradle-code-quality-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/diagnostics" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/osgi" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/jacoco" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/antlr" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/cpp" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/plugin-use" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/ui" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/core-impl" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/signing" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/resources" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/base-services" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/launcher" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/build-init" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/native" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/code-quality" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/messaging" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/build-comparison" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/base-services-groovy" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/open-api" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/ivy" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/tooling-api" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/sonar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/announce" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/wrapper" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/jetty" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/language-jvm" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/internal-integ-testing" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/resources-http" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/plugins" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/ide" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/maven" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/ear" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/language-base" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/javascript" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/core" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/publish" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/reporting" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/internal-testing" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/cli" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/src/scala" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/gradle-native-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/ant-1.9.3.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/gradle-open-api-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/gradle-core-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/groovy-all-2.3.3.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/gradle-tooling-api-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/gradle-cli-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/gradle-resources-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/gradle-launcher-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/gradle-ui-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/gradle-base-services-groovy-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/ant-launcher-1.9.3.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/gradle-docs-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/gradle-wrapper-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/gradle-messaging-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/gradle-base-services-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/ant-antlr-1.9.3.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-publish-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-plugin-use-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-maven-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-jetty-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-resources-http-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-build-comparison-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-signing-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-javascript-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-reporting-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-ear-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-language-jvm-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-sonar-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-build-init-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-core-impl-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-announce-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-jacoco-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-osgi-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-scala-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-cpp-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-plugins-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-language-base-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-antlr-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-ide-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-ivy-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-diagnostics-2.0.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../gradle-2.0/lib/plugins/gradle-code-quality-2.0.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -651,8 +696,8 @@
         <option value="$PROJECT_DIR$/src/main/java/demo/GreetingController.java" />
         <option value="$PROJECT_DIR$/src/main/java/demo/HelloMessage.java" />
         <option value="$PROJECT_DIR$/src/main/java/demo/WebSocketConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/demo/Service.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/demo/Service.java" />
       </list>
     </option>
   </component>
@@ -698,6 +743,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -713,7 +760,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
+              <option name="myItemId" value="trunk" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -723,13 +770,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
+              <option name="myItemId" value="trunk" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -737,7 +796,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
+              <option name="myItemId" value="trunk" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -759,7 +818,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
+              <option name="myItemId" value="trunk" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -777,30 +836,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
+              <option name="myItemId" value="trunk" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
+              <option name="myItemId" value=".gradle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -810,7 +855,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
@@ -819,7 +864,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="dynamic.classpath" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
@@ -1203,11 +1248,12 @@
       <workItem from="1427736719451" duration="5999000" />
       <workItem from="1427910953504" duration="586000" />
       <workItem from="1427911556673" duration="8158000" />
+      <workItem from="1427924366498" duration="982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14743000" />
+    <option name="totallyTimeSpent" value="15725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1365" y="0" width="1922" height="1081" extended-state="6" />
@@ -1217,29 +1263,29 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32869378" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32869378" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943144" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47658864" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.48929337" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19680852" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12074468" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15310493" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45931476" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943144" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1282,6 +1328,58 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/demo/GreetingController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/HelloMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/WebSocketConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/GreetingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1315,7 +1413,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1333,12 +1430,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="e#105#106#0" expanded="false" />
-            <element signature="e#143#144#0" expanded="false" />
-            <element signature="e#177#178#0" expanded="false" />
-            <element signature="e#207#208#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1357,8 +1448,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#319#320#0" expanded="false" />
             <element signature="e#385#386#0" expanded="true" />
           </folding>
         </state>
@@ -1399,8 +1488,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#319#320#0" expanded="false" />
             <element signature="e#385#386#0" expanded="true" />
           </folding>
         </state>
@@ -1425,7 +1512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1433,12 +1519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="e#105#106#0" expanded="false" />
-            <element signature="e#143#144#0" expanded="false" />
-            <element signature="e#177#178#0" expanded="false" />
-            <element signature="e#207#208#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1454,7 +1534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1462,7 +1541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1471,16 +1549,6 @@
         <state vertical-scroll-proportion="0.42517006">
           <caret line="128" column="16" selection-start-line="128" selection-start-column="16" selection-end-line="128" selection-end-column="16" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1508,7 +1576,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.33333334">
+        <state vertical-scroll-proportion="0.0">
           <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
           <folding>
             <element signature="n#style#0;n#h2#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1528,8 +1596,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/demo/WebSocketConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6289517">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0110865">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

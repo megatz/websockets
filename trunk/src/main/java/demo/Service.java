@@ -27,6 +27,8 @@ public class Service {
             helloMessage.setContent("jjjjjjjjjjjjj");
 
 //            brokerMessagingTemplate.convertAndSendToUser("developer", "/topic/greetings", "User: " + System.currentTimeMillis());
+//            brokerMessagingTemplate.convertAndSendToUser("developer", "/topic/greetings", "User: " + System.currentTimeMillis());
+//            brokerMessagingTemplate.convertAndSendToUser("developer", "/topic/greetings", "User: " + System.currentTimeMillis());
 //            brokerMessagingTemplate.convertAndSendToUser("notYou", "/topic/greetings", "Mr Developer Should Not See This: " + System.currentTimeMillis());
 
             brokerMessagingTemplate.convertAndSend("/topic/greetings", helloMessage);
